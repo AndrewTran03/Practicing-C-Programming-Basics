@@ -28,5 +28,6 @@ int main(int argc, char* argv[])
     printf("pValue's Size: %zd bytes\n", sizeof(pValue)); //Output the size of the pointer (bytes)
     printf("pValue's Value: %p\n", pValue); //Output the value (an address)
     printf("pValue points this value: %d\n", *pValue); //Output the value at the pointer address
+    
     return 0;
 }
