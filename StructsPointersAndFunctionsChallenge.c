@@ -14,7 +14,7 @@ struct item
 void readItem(struct item *i);
 void printItem(struct item *i);
 
-int main()
+int main(int argc, char* argv[])
 {
     struct item item;
     struct item *pItem;
