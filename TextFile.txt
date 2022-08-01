@@ -1,0 +1,8 @@
+apple
+banana
+cat
+dog
+egg
+foxtrot
+gorilla
+hello
